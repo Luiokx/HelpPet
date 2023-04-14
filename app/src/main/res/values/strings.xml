@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HelpPET</string>
+    <string name="title_home">Home</string>
+    <string name="title_like">Favorites</string>
+    <string name="title_add">Add</string>
+    <string name="title_chat">Messages</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_email">Email</string>
+    <string name="title_password">Password</string>
+    <string name="title_confirm_password">Confirm password</string>
+    <string name="title_welcome">Welcome to HelPET</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_password_recovery">Forgot your password?</string>
+    <string name="title_not_account">You do not have an account </string>
+    <string name="title_click">click here</string>
+    <string name="title_phone">Phone number</string>
+    <string name="tab_login">LOGIN</string>
+    <string name="tab_register">REGISTER</string>
+</resources>
